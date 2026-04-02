@@ -1,0 +1,20 @@
+# Python Bytecode (Compiled files)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite Database (Keep your data local/private)
+*.db
+*.sqlite3
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# OS Metadata
+.DS_Store
+Thumbs.db
+
+# Flask Instance folder
+instance/
